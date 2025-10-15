@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi, I'm Oluwadamilola 👋
 
+- 📫 How to reach me: <a href="https://dami.bio">my website</a> | <a href="mailto:hi@dami.bio">hi@dami.bio</a>
 <!--
 **devmoosun/devmoosun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
